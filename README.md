@@ -1,6 +1,13 @@
 # 💬 WhatsApp Expense Tracker
+![chatxp logp](https://github.com/user-attachments/assets/b1064283-81bb-426c-b9ad-4bef8063b3a1)
+
 
 A smart, interactive WhatsApp chatbot that tracks your expenses via messages. Built with Flask, MongoDB, and deployed using Waitress.
+
+# Overview
+
+![We Spend Money Daily  Do We Keep a record of it](https://github.com/user-attachments/assets/882d3c5e-ee7a-47ea-8b0d-723f8fee843b)
+
 
 # 🚀 Features
 📥 Automatically records expenses from messages.
